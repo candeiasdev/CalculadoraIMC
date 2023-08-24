@@ -26,7 +26,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Carlos Candeias (follow me on [Instagram](https://twitter.com/diegocandeias))
+Carlos Candeias (follow me on [Linkedin](https://www.linkedin.com/in/carlos-candeias-3986185a/)
 
 ## License
 ```
