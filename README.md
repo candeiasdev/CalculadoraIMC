@@ -1,5 +1,5 @@
 # CalculadoraIMC
-Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android. Realizei uma imersão no DevSpace com um Engineer Senior do Spotfy.
+Calculadora de IMC foi um aplicativo que desenvolvi com desenvolvimento Android. Realizei uma imersão no DevSpace com um Engineer Senior do Spotfy.
 
 
 
